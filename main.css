@@ -6,6 +6,7 @@ body {
     background-image: url(images/Sushi-and-sashimi-variety.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
+    background-blend-mode:soft-light;
 }
 .container {
     margin-left: auto;
@@ -31,10 +32,6 @@ main {
     padding-top: 80px;
     padding-left: 240px;
     padding-right: 240px;
-
-
-    
-
 }
 footer {
     background-color:rgba(0, 0, 0, 0.514);
@@ -43,16 +40,16 @@ footer {
 }
 h1 {
     font-size: 84px;
-    color: white;
+    color: black;
     font-family: Arial, Helvetica, sans-serif;
 }
 p {
     font-size: 18px;
-    color:whitesmoke;
+    color: black;
     font-family: cursive;
 }
 a {
-    color: white;
+    color: black;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
@@ -71,4 +68,3 @@ footer p {
     padding-top: 50px;
     padding-bottom: 50px;
 }
-nav.a 
