@@ -1,6 +1,5 @@
-# ADARE-RESTAURANT
-Html-CSS project
 # VivaCity Candles and Bath Salts Website
+Html-CSS project
 
 Welcome to the VivaCity Candles and Bath Salts website repository! This project is designed to showcase our exquisite products and provide a seamless and secure way for customers to purchase our candles and bath salts online.
 
@@ -66,6 +65,48 @@ We welcome contributions from the community to improve and enhance our website. 
 ## License
 
 This repository is licensed under the [License Name] License. See the [LICENSE](LICENSE) file for details.
+Certainly! Here's a write-up explaining how someone can open a Figma file from your GitHub repository and view it on both Windows and Mac:
+
+---
+
+# How to Open and View the Figma File
+
+You can follow these steps to allow users to view the file on both Windows and Mac:
+
+## 1. Access the GitHub Repository
+
+Visit your GitHub repository where the Figma file is hosted. Ensure that the file is publicly accessible or that you've granted appropriate permissions to viewers.
+
+## 2. Locate the Figma File
+
+Identify the Figma file you want to share. It may have a `.fig` or `.figma` or '.jam' file extension.
+
+## 3. Get the File's URL
+
+Click on the Figma file to open it. In the file preview, you'll find an option to "View raw." Right-click on this option and choose "Copy link address" to get the direct URL to the file.
+
+## 4. Open Figma in a Web Browser
+
+Users can view Figma files using a web browser, and this method works on both Windows and Mac:
+
+   - Open a web browser (e.g., Chrome, Firefox, Safari).
+   - Paste the copied URL into the browser's address bar and press Enter.
+
+## 5. Sign In or Create a Figma Account
+
+To view the Figma file, users may need to sign in or create a free Figma account if they don't already have one. This step is essential for accessing shared Figma files.
+
+## 6. Explore the Figma Design
+
+Once signed in, users can explore the Figma file directly in their web browser. They can interact with the design, inspect elements, and provide feedback if necessary.
+
+## 7. Optional: Export or Duplicate the Design
+
+Users can also export or duplicate the design if they need to work on it further. The specific options for this will depend on your sharing settings.
+
+---
+
+By following these steps, you can easily share and allow others to view your Figma files hosted on GitHub, regardless of whether they are using a Windows or Mac computer. This approach leverages the power of the Figma web platform to make your designs accessible to a wide audience.
 
 ---
 
